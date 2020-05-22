@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /img/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /libs/
+Disallow: /css/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /img/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /libs/
+Disallow: /css/
+sitemap: https://remont-okon24.ru/sitemap.xml
+Host: remont-okon24.ru
